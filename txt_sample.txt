@@ -33,3 +33,5 @@ main branch.for creating a new branch just click on main and then click on creat
  firstName
  ---------snake casing---------
  first_name
+ -----------collaboration or adding colab---------------
+ -----------code using branching------------------------
