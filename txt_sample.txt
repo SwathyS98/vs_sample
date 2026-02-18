@@ -10,3 +10,5 @@ hdsfghsgfgdguyeguteu
 #2. accept incomming change
 #3. both
 #4. comparing
+
+now we want to check status
