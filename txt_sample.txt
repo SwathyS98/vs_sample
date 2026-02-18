@@ -5,3 +5,8 @@ abcdefg
 hdjhsg
 hgwdjgwgug
 hdsfghsgfgdguyeguteu
+----------------four types to solve conflicts-------------
+#1. accept current change
+#2. accept incomming change
+#3. both
+#4. comparing
