@@ -25,3 +25,7 @@ main branch.for creating a new branch just click on main and then click on creat
  
  -------------creating new branch----------------
  git checkout -b profile
+ ---for pushing-------------git push origin profile
+ ---for changing branch---git checkout -b profile
+ ---for going back to main--git checkout main
+ to pull from the brance profile---git pull origin profile , then click on sync
