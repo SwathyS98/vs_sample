@@ -11,4 +11,17 @@ hdsfghsgfgdguyeguteu
 #3. both
 #4. comparing
 
-now we want to check status
+adding the changes          ---- git add .
+check the history           ---- git log
+commiting the code          ---- git commit -m "the name of the process"
+pushing the code            ---- git push
+now we want to check status ---- git status
+
+--------------------branching-----------------------------
+main part
+when there is more than one employee in our firm, each employee will be given separate branches to push their work
+and the main staff will pull these works to the main branch. So the next day these employees can pull from the 
+main branch.for creating a new branch just click on main and then click on create new branch.This will make the flow of project more easy.
+ 
+ -------------creating new branch----------------
+ git checkout -b profile
