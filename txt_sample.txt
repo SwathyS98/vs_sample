@@ -29,3 +29,7 @@ main branch.for creating a new branch just click on main and then click on creat
  ---for changing branch---git checkout -b profile
  ---for going back to main--git checkout main
  to pull from the brance profile---git pull origin profile , then click on sync
+ ---------camel casing---------
+ firstName
+ ---------snake casing---------
+ first_name
