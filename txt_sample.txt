@@ -1,0 +1,3 @@
+this is my first text file in vs code
+this is to learn vs code , git bash and git hub
+git can be called source control or version control
